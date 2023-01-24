@@ -1,0 +1,6 @@
+.mycard {
+    border:0.1px solid;
+}
+.mycard:hover {
+    border-color: red;
+}
